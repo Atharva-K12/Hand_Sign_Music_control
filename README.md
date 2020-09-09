@@ -1,6 +1,7 @@
 # Hand_Sign_Music_control
 Most of the time while working we dont have space on screen for app to control the background activities like music.
 This project is an example of use of handsigns as input for web-automation.
+
 ---
 
 #### Requirements for usage
@@ -77,6 +78,8 @@ Number of Epochs = 10
 Mini Batch Size = 1000
 
 ![Cost_stats](https://drive.google.com/uc?export=view&id=1cEbbeFhMenBc-5gItIvp-NSXY7pVVfOt) --time in seconds
+
+
 ![Cost Graph](https://drive.google.com/uc?export=view&id=1VrM64E5dJISVl9goOi5Pc8chZYsb4QVj)
 
 #### Train Set Accuracy = 100%
