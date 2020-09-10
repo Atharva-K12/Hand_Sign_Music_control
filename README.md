@@ -41,12 +41,13 @@ Run the code using command line
 
 A webcam window will open.
 
-![Instructions](https://drive.google.com/uc?export=view&id=1CpgfY4xAcSS2LlmuNEFIMoi_GkoPmGUY)
+<a href="https://drive.google.com/file/d/1CpgfY4xAcSS2LlmuNEFIMoi_GkoPmGUY/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1CpgfY4xAcSS2LlmuNEFIMoi_GkoPmGUY" alt="Instructions Image"></a>
+    
 
 Make these handsigns in the visible region of output of webcam.
 
 Until the open browser sign is made all instructions will be ignored.
-[Demo Video](https://drive.google.com/file/d/1qaKtV5Gom2dx8soXgI0vn_Ne4RITov_0/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1qaKtV5Gom2dx8soXgI0vn_Ne4RITov_0/view?usp=sharing"><video src="https://drive.google.com/uc?export=view&id=1qaKtV5Gom2dx8soXgI0vn_Ne4RITov_0" alt="Demo video"></a>
 
 ---
 
@@ -77,10 +78,10 @@ Number of Epochs = 10
 
 Mini Batch Size = 1000
 
-![Cost_stats](https://drive.google.com/uc?export=view&id=1cEbbeFhMenBc-5gItIvp-NSXY7pVVfOt) --time in seconds
+<a href="https://drive.google.com/file/d/1cEbbeFhMenBc-5gItIvp-NSXY7pVVfOt/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1cEbbeFhMenBc-5gItIvp-NSXY7pVVfOt" alt="Cost stats"></a>--time taken in seconds
 
 
-![Cost Graph](https://drive.google.com/uc?export=view&id=1VrM64E5dJISVl9goOi5Pc8chZYsb4QVj)
+<a href="https://drive.google.com/file/d/1VrM64E5dJISVl9goOi5Pc8chZYsb4QVj/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1VrM64E5dJISVl9goOi5Pc8chZYsb4QVj" alt="Cost Graph"></a>
 
 #### Train Set Accuracy = 100%
 
