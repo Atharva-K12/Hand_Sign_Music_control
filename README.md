@@ -47,7 +47,8 @@ A webcam window will open.
 Make these handsigns in the visible region of output of webcam.
 
 Until the open browser sign is made all instructions will be ignored.
-<a href="https://drive.google.com/file/d/1qaKtV5Gom2dx8soXgI0vn_Ne4RITov_0/view?usp=sharing">Demo video</a>
+
+<a href="https://drive.google.com/file/d/1qaKtV5Gom2dx8soXgI0vn_Ne4RITov_0/view?usp=sharing"><b>Demo video</b></a>
 
 ---
 
