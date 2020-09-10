@@ -58,8 +58,8 @@ class HandSignModel(nn.Module):
 torch.manual_seed(0)
 model=HandSignModel()
 cost_f=nn.CrossEntropyLoss()
-optimizer=torch.optim.Adam(model.parameters(),lr=0.01)#,weight_decay=0.005)
-decay=LambdaLR(optimizer, lr_lambda= lambda i: 0.95**i)
+optimizer=torch.optim.Adam(model.parameters(),lr=0.01)
+decay=LambdaLR(optimizer, lr_lambda= lambda i: 0.95**i)#learning rate dacay used 
 epoch=10
 batch_size=1000
 costs=[]
