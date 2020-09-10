@@ -17,6 +17,8 @@ This project is an example of use of handsigns as input for web-automation.
 (present in the repository)
 * Webcam
 
+[Usage](#usage)
+
 ---
 
 #### Requirements for training CNN model
@@ -29,8 +31,7 @@ This project is an example of use of handsigns as input for web-automation.
     * Matplotlib
       > pip install matplotlib
       
-1. [Usage](#usage)
-2. [Training Stats](#training-stats)
+ [Training Stats](#training-stats)
 
 ---
 
